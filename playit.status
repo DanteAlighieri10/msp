@@ -1,452 +1,164 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732407812374 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732408041759 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407815441 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408044836 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407818504 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408047905 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407821573 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408050987 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407824647 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408054055 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407827717 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408057130 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407830789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408060195 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407833845 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408063276 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407836908 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408066347 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407839965 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408069414 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407843033 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732408084547 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407846100 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408087608 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407849156 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408090669 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407852226 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408093773 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407855299 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408096868 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407858358 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732408111969 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407861418 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408115034 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407864477 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408118091 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407867547 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408121148 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407870604 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408124207 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407873658 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408127267 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407876719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408130325 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407879783 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407882864 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407885929 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407889177 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407892250 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407895316 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407898385 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407901445 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407904519 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407907578 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407910658 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407913864 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407916935 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407920005 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407923077 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407926144 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407929218 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407932300 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407935363 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407938434 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407941489 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407944562 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407947620 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407950680 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407953744 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407957006 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407960083 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407963143 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407966213 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407969284 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407972375 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407975440 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407978498 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407981579 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407984648 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407987712 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407990882 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407993950 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732407997020 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732408000089 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732408003169 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732408006237 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ca-cake.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-trying-utilization.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732408009306 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732408133400 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
